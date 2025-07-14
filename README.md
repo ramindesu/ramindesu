@@ -2,6 +2,8 @@
 Hi, I’m Ramin 👋<br><br>🔥 A passionate BackEnd Developer<br>💡 I build, solve, design, and deliver — whatever it takes<br>🎯 I don’t just write code, I make things work<br>⚡ Fun Fact<br><br>If I don’t know it yet, give me an hour.<br>
 
 
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ramin-desu-5428b6359) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramindesu88@gmail.com) 
 
