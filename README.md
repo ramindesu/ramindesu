@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Ramin 👋<br><br>🔥 A passionate Full-Stack Developer<br>💡 I build, solve, design, and deliver — whatever it takes<br>🎯 I don’t just write code, I make things work<br>⚡ Fun Fact<br><br>If I don’t know it yet, give me an hour.<br>
+Hi, I’m Ramin 👋<br><br>🔥 A passionate BackEnd Developer<br>💡 I build, solve, design, and deliver — whatever it takes<br>🎯 I don’t just write code, I make things work<br>⚡ Fun Fact<br><br>If I don’t know it yet, give me an hour.<br>
 
 
 ## 🌐 Socials:
