@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi, I’m Ramin 👋<br><br>🔥 A passionate BackEnd Developer<br>💡 I build, solve, design, and deliver — whatever it takes<br>🎯 I don’t just write code, I make things work<br>⚡ Fun Fact<br><br>If I don’t know it yet, give me an hour.<br>
 
+  <img align="right" src="https://komarev.com/ghpvc/?username=ramindesu&label=Profile%20views&color=23CE6B&style=for-the-badge" alt="ramindesu" />
 
 
 
