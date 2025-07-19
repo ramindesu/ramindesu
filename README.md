@@ -53,6 +53,8 @@ Hi, I’m Ramin 👋<br><br>🔥 A passionate BackEnd Developer<br>💡 I build,
 # 📊 GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=ramindesu&theme=dark&hide_border=false)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ramindesu&show_icons=true&theme=tokyonight)
+
 
 
 
