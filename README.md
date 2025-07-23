@@ -54,6 +54,7 @@ Hi, I’m Ramin 👋<br><br>🔥 A passionate BackEnd Developer<br>💡 I build,
 
 ![](https://nirzak-streak-stats.vercel.app/?user=ramindesu&theme=dark&hide_border=false)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ramindesu&show_icons=true&theme=tokyonight)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramindesu" alt="ramindesu" /></a> </p>
 
 
 
