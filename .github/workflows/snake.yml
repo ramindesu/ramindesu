@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # هر روز اجرا بشه
-  workflow_dispatch: # اجرای دستی از داخل گیت‌هاب
+    - cron: "0 0 * * *"  # اجرای خودکار هر روز ساعت 00:00 UTC
+  workflow_dispatch:      # اجرای دستی از بخش Actions
 
 jobs:
   build:
@@ -26,7 +26,8 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
+          commit_message: "Update contribution snake 🐍"
+          allow_empty_commit: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-          
