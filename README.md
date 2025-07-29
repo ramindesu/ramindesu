@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Ramin 👋  
+Hi, I’m Ramin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16" /></h1><br>
 🔥 A passionate BackEnd Developer  
 💡 I build, solve, design, and deliver — whatever it takes  
 🎯 I don’t just write code, I make things work  
@@ -8,7 +8,8 @@ If I don’t know it yet, give me an hour.
 
 <img align="right" src="https://komarev.com/ghpvc/?username=ramindesu&label=Profile%20views&color=23CE6B&style=for-the-badge" alt="ramindesu" />
 
----
+<img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="cats" />
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramin-desu-5428b6359) 
