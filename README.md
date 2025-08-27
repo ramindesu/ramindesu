@@ -10,7 +10,6 @@ If I don’t know it yet, give me an hour.
 
 <img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="cats" />
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramin-desu-5428b6359) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramindesu88@gmail.com) 
@@ -52,13 +51,12 @@ If I don’t know it yet, give me an hour.
 
 ---
 
-## 🏆 GitHub Profile Trophy
+## 💡 Daily Quote
 
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=ramindesu&theme=darkhub&no-frame=true&margin-w=15&row=1&column=7" alt="github trophies" />
-</p>
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ---
+
 ![snake gif](https://github.com/ramindesu/ramindesu/blob/output/github-contribution-grid-snake.svg)
 [![](https://visitcount.itsvg.in/api?id=ramindesu&icon=0&color=0)](https://visitcount.itsvg.in)
 
