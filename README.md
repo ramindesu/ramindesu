@@ -51,10 +51,9 @@ If I don’t know it yet, give me an hour.
 
 ---
 
-## 💡 Daily Quote
+## 🏆 GitHub Trophies
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
+![](https://github-profile-trophy.vercel.app/?username=ramindesu&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 ---
 
 ![snake gif](https://github.com/ramindesu/ramindesu/blob/output/github-contribution-grid-snake.svg)
