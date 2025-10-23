@@ -1,11 +1,17 @@
 # 🌊 Wanna Know About Me?
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=447FF7&center=true&vCenter=true&width=435&lines=Back+End+Developer;" alt="Headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=447FF7&center=true&vCenter=true&width=435&lines=BackEnd+Developer;" alt="Headline" />
 </p>
 
 
 Hi, I’m Ramin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16" /></h1><br>
+ a passionate **Back-End Developer** who loves turning complex ideas into elegant and efficient code ⚡  
+I'm currently focused on **building scalable APIs**, exploring **FastAPI & Django**, and improving my DevOps skills with **Docker** and **Linux** 🐧  
+
+🧠 Always learning something new — recently diving deeper into **database optimization** and **system design**.  
+💬 I love connecting with other developers and sharing ideas!  
+🎯 Goal: To become a world-class developer and contribute to open-source projects 🌍 
 
 If I don’t know it yet, give me an hour.
 
