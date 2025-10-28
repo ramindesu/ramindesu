@@ -1,7 +1,7 @@
 # 🌊 Wanna Know About Me?
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=447FF7&center=true&vCenter=true&width=435&lines=BackEnd+Developer;" alt="Headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=BackEnd+Developer;" alt="Headline" />
 </p>
 
 
