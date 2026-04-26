@@ -45,7 +45,7 @@ If I don’t know it yet, give me an hour.
 
 ---
 
-## 📊 GitHub Stats + Languages:
+## 📊  Languages:
 
 <table>
   <tr>
