@@ -50,7 +50,7 @@ If I don’t know it yet, give me an hour.
 <table>
   <tr>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=ramindesu&theme=dark&hide_border=false" />
+      <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramindesu&layout=compact&theme=dark&hide_border=false" />
