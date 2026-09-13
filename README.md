@@ -34,8 +34,8 @@ Currently, I am driving the backend development and infrastructure design for **
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py" height="60" alt="python" /> <img src="https://skillicons.dev/icons?i=go" height="60" alt="golang" /> <img src="https://skillicons.dev/icons?i=java" height="60" alt="java" /> <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django" />  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring boot" />
-  
+ <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker" />
