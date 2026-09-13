@@ -33,13 +33,9 @@ Currently, I am driving the backend development and infrastructure design for **
 ## 💻 Core Technologies & Tools:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi" />
+<img src="https://skillicons.dev/icons?i=py" height="60" alt="python" /> <img src="https://skillicons.dev/icons?i=go" height="60" alt="golang" /> <img src="https://skillicons.dev/icons?i=java" height="60" alt="java" /> <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django" />  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring boot" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker" />
