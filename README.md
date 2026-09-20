@@ -48,10 +48,5 @@ Currently, I am driving the backend development and infrastructure design for **
 
 
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=ramindesu&theme=radical&no-frame=true&no-bg=true&margin-w=4)
----
-
 ![snake gif](https://github.com/ramindesu/ramindesu/blob/output/github-contribution-grid-snake.svg)
 [![](https://visitcount.itsvg.in/api?id=ramindesu&icon=0&color=0)](https://visitcount.itsvg.in)
